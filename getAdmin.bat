@@ -1,3 +1,5 @@
+:: Gets admin privilages- Important step for a lot of scripts!
+
 :: --------------------------------------------
 :: BatchGetAdmin
 if not "%1"=="am_admin" (
