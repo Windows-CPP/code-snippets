@@ -1,3 +1,6 @@
+:: Downloads a file from a specefied web address & (Optionally) unzips the file
+
+
 SET FILELINK="YOURLINKHERE"
 :: filelocname has the file name you save it as *plus* the path to where you want to save it
 SET FILELOCNAME="YOURFILENAMEHERE"
